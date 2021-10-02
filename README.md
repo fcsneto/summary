@@ -1,4 +1,4 @@
-# summary
+## summary
 Summary of projects and studies
 
 # Surrently studying
@@ -10,10 +10,13 @@ Summary of projects and studies
 - React Native
 - Twitch API
 
-# Last Projects
-- Bonoro Rush
-- Operação Praia
+# Current Projects
+- [admoney (Study project)](https://github.com/fcsneto/dtmoney)
 
 # Last Projects
-- admoney (Study project)
+- [Bonoro Rush (Android Game)](https://play.google.com/store/apps/details?id=air.br.com.franciscocorreia.bonoroRush)
+- [Operação Praia (Android Game)](https://play.google.com/store/apps/details?id=air.br.com.franciscocorreia.operacaopraia)
+
+# Next Projects
+- Metaverse (Social app for twitch users)
 
