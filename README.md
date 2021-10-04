@@ -12,6 +12,7 @@ Summary of projects and studies
 
 # Current Projects
 - [admoney (Study project)](https://github.com/fcsneto/dtmoney)
+- [Netflix Clone (Study project)](https://github.com/fcsneto/Netflix)
 
 # Last Projects
 - [Bonoro Rush (Android Game)](https://play.google.com/store/apps/details?id=air.br.com.franciscocorreia.bonoroRush)
