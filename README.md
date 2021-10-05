@@ -12,12 +12,12 @@ Summary of projects and studies
 
 # Current Projects
 - [admoney (Study project)](https://github.com/fcsneto/dtmoney)
-- [Netflix Clone (Study project)](https://github.com/fcsneto/Netflix)
 
 # Last Projects
 - [Bonoro Rush (Android Game)](https://play.google.com/store/apps/details?id=air.br.com.franciscocorreia.bonoroRush)
 - [Operação Praia (Android Game)](https://play.google.com/store/apps/details?id=air.br.com.franciscocorreia.operacaopraia)
 - [Flex Turismos (Study project)](https://github.com/fcsneto/flex_turismos)
+- [Podflix - Netflix Clone (Study project)](https://github.com/fcsneto/PodFlix)
 
 # Next Projects
 - Metaverse (Social app for twitch users)
