@@ -18,6 +18,7 @@ Summary of projects and studies
 - [Operação Praia (Android Game)](https://play.google.com/store/apps/details?id=air.br.com.franciscocorreia.operacaopraia)
 - [Flex Turismos (Study project)](https://github.com/fcsneto/flex_turismos)
 - [Podflix - Netflix Clone (Study project)](https://github.com/fcsneto/PodFlix)
+- [DinoGame - Game Web (Study project)](https://github.com/fcsneto/DinoGame)
 
 # Next Projects
 - Metaverse (Social app for twitch users)
