@@ -22,4 +22,5 @@ Summary of projects and studies
 
 # Next Projects
 - Metaverse (Social app for twitch users)
+- olamundo.academy
 
